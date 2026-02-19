@@ -48,7 +48,7 @@ Phase 0.5 Completed.
 
 Next Phase: Operating Systems & How Software Runs
 
-## Author
+---
 
-Abdus Subhan Aarba  
+Author: Abdus Subhan Aarba  
 Focus: Software Engineering (Full-Stack Path)
